@@ -1,0 +1,8 @@
+Dr	Alec	Addey	stu	 60
+
+Mr	Colin	Corwin	sta	 10
+
+Dr	Eric	Ely	stu	 35
+
+Mr	Gordon	Grant	sta	 23
+
